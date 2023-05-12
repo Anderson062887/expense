@@ -1,0 +1,12 @@
+.main-content{
+    background-color: #f1eff1;
+    min-width: 375px;
+    /* border: 3px solid green; */
+    /* max-height: 100%; */
+  }
+  .main-content-body{
+      /* border:5px solid red; */
+      height: calc(100vh - 90px);
+      /* padding: 20px; */
+      /* width: 90%; */
+  }
